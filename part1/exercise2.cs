@@ -8,7 +8,6 @@ namespace part1
   {
     public int Calculate(string a, string b)
     {
-      //first tried to do it by myself
       int match = 0;
       int st = a.Length;
       int sub = b.Length;
@@ -21,8 +20,7 @@ namespace part1
             
         }
       }
-      //then found a line from internet
-      match = Regex.Matches(a, b).Count;
+      //match = Regex.Matches(a, b).Count;
       return match;
     }
   }
