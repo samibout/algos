@@ -12,8 +12,11 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+<<<<<<< HEAD
 answers/
 
+=======
+>>>>>>> 0930fb952f1b0caac9d68aa1cdb9c6599acb3538
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
