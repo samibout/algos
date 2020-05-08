@@ -8,7 +8,7 @@ namespace part1
   {
     public int Calculate(string a, string b)
     {
-      //first done it by myself
+      //first tried to do it by myself
       int match = 0;
       int st = a.Length;
       int sub = b.Length;
